@@ -2,7 +2,6 @@
 [원본레포](https://github.com/chimurai/http-proxy-middleware)
 
 # 👨🏻‍🔧 
-
 # 🚀 How To Use
 ---
 개발 환경에서 CORS 정책을 우회하기 위한 다양한 방법 중 하나인
